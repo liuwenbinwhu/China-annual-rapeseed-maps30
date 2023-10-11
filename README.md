@@ -10,11 +10,18 @@ Additionally, the CARM30-derived rapeseed planted area was significantly correla
 information can serve as a reference for stakeholders such as farmers, scientific communities, and decision-makers. 
 
 #
-☆estimate_rapeseed_flowering_time.m: MATLAB code for estimating peak flowering date of rapeseed  
-☆RFR_model_20220725.mat: Random forest regression model trained for estimating flowering date of rapeseed
+☆estimate_rapeseed_flowering_time.m: MATLAB code for estimating the peak flowering date of rapeseed  
+#
+☆RFR_model_20220725.mat: Random forest regression model trained for estimating the flowering date of rapeseed
+#
 ☆training_data.csv: Training data for estimating flowering dates of rapeseed 
+#
 ☆20××_mete_data.tif: Input features for estimating flowering dates in rapeseed 
+#
 ☆20××_floweringDOY.tif & 20××_floweringDOY_month.tif: Obtained maps of peak flowering dates for rapeseed
+#
 ☆GEE-Rapeseed classification algorithm.txt: Code used to map rapeseed in the GEE cloud platform
+#
 ☆Rapeseed-area.xlsx: Remotely sensed rapeseed planted area and statistical rapeseed planted area
+#
 ☆China_springRapeseed_20××_uncertainty.tif & China_winterRapeseed_20××_uncertainty.tif: Uncertainty maps ☆corresponding to the CARM30 product
