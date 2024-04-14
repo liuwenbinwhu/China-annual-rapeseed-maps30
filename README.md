@@ -9,18 +9,7 @@ samples and showed average F1 scores of 0.869 and 0.971 for winter and spring ra
 Additionally, the CARM30-derived rapeseed planted area was significantly correlated with agricultural statistics (R2 = 0.65–0.86; p < 0.001). The obtained rapeseed distribution 
 information can serve as a reference for stakeholders such as farmers, scientific communities, and decision-makers. 
 
-#
-☆estimate_rapeseed_flowering_time.m: MATLAB code for estimating the peak flowering date of rapeseed  
-#
-☆RFR_model_20220725.mat: Random forest regression model trained for estimating the flowering date of rapeseed
-#
-☆training_data.csv: Training data for estimating flowering dates of rapeseed 
-#
-☆20××_mete_data.tif: Input features for estimating flowering dates in rapeseed 
-#
 ☆20××_floweringDOY.tif & 20××_floweringDOY_month.tif: Obtained maps of peak flowering dates for rapeseed
-#
-☆GEE-Rapeseed classification algorithm.txt: Code used to map rapeseed in the GEE cloud platform
 #
 ☆Rapeseed-area.xlsx: Remotely sensed rapeseed planted area and statistical rapeseed planted area
 #
